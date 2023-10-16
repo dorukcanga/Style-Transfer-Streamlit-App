@@ -1,9 +1,6 @@
 streamlit
 numpy
-os
 tensorflow
 tensorflow_hub
 PIL
 cv2
-io
-base64
