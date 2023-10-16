@@ -1,7 +1,7 @@
 # Web App for Arbitrary Neural Style Transfer
 Streamlit Web App for Arbitrary Neural Style Transfer with Multiple Styles.
 
-![alt text](https://github.com//dorukcanga/Style-Transfer-Streamlit-App/blob/main/tofi_vangogh.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/dorukcanga/Style-Transfer-Streamlit-App/main/tofi_vangogh.jpg?raw=true)
 
 This app allows users to apply multiple styles to their photos or to create GIFs with style transitions.
 There are several style options available in the app. Users may select one or more style images from existing options or they may upload style images via upload option.
