@@ -17,9 +17,9 @@ class utils:
     
     model_url = 'https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2'
     
-    logo_url = "/app/Style-Transfer-Streamlit-App/data/logo/tofi_vangogh.jpg"
+    logo_url = "/app/Style-Transfer-Streamlit-App/tofi_vangogh.jpg"
 
-    style_folder = '/app/Style-Transfer-Streamlit-App/data/logo/style_images/'
+    style_folder = '/app/Style-Transfer-Streamlit-App/style_images/'
 
     default_style_dict = {
         'Van Gogh - The Starry Night' : style_folder+'van_gogh_starry_night.jpg',
