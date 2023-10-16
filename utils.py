@@ -17,9 +17,9 @@ class utils:
     
     model_url = 'https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2'
     
-    logo_url = "/Users/dorukcanga/Desktop/style_transfer/tofi_vangogh.jpg"
+    logo_url = "/app/Style-Transfer-Streamlit-App/data/logo/tofi_vangogh.jpg"
 
-    style_folder = '/Users/dorukcanga/Desktop/style_transfer/style_images/'
+    style_folder = '/app/Style-Transfer-Streamlit-App/data/logo/style_images/'
 
     default_style_dict = {
         'Van Gogh - The Starry Night' : style_folder+'van_gogh_starry_night.jpg',
@@ -30,7 +30,9 @@ class utils:
         'Picasso - Two Girls Reading' : style_folder+'picasoo_two_girls_reading.jpeg',
         'Picasso - Guernica' : style_folder+'picasso_guernica.jpeg',
         'Hokusai - The Great Wave off Kanagawa' : style_folder+'hokusai_great_wave_off_kanagawa.jpeg',
-        'Munch - The Scream' : style_folder+'munch_the_scream.jpeg'
+        'Munch - The Scream' : style_folder+'munch_the_scream.jpeg',
+        'Other - Candy' : style_folder+'other_candy.jpeg',
+        'Other - Mosaic' : style_folder+'other_mosaic.jpeg'
     }
 
 @st.cache_resource
