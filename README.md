@@ -22,5 +22,5 @@ This app uses fast arbitrary style transfer model from TensorFlow Hub. Details c
 
 Model used in the app can be found [here](https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2).
 
-[Streamlit Documantation](https://docs.streamlit.io)
+[Streamlit Documentation](https://docs.streamlit.io)
 
