@@ -1,6 +1,4 @@
-import pandas as pd
 import numpy as np
-
 import os
 import tensorflow as tf
 # Load compressed models from tensorflow_hub
