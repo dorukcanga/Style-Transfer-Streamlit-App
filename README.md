@@ -19,6 +19,8 @@ Also, GIFs with style transtion can be created. Users may create GIFs of origina
 ## References
 
 This app uses fast arbitrary style transfer model from TensorFlow Hub. Details can be found [here](https://www.tensorflow.org/tutorials/generative/style_transfer).
+
 Model used in the app can be found [here](https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2).
-Streamlit Documantation: 
+
+[Streamlit Documantation](https://docs.streamlit.io)
 
