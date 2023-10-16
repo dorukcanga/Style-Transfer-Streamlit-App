@@ -3,4 +3,4 @@ numpy
 tensorflow
 tensorflow_hub
 pillow==8.2.0
-cv2
+opencv-python==4.8.1
