@@ -2,5 +2,5 @@ streamlit
 numpy
 tensorflow
 tensorflow_hub
-PIL
+pillow==8.2.0
 cv2
