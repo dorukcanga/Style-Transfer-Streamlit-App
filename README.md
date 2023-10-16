@@ -15,3 +15,10 @@ There are several style options available in the app. Users may select one or mo
 Weights of multiple styles are configurable. Users may adjust style intensity levels to create images with more or less intense styles.
 
 Also, GIFs with style transtion can be created. Users may create GIFs of original content images with transition between 2 styles.
+
+## References
+
+This app uses fast arbitrary style transfer model from TensorFlow Hub. Details can be found [here](https://www.tensorflow.org/tutorials/generative/style_transfer).
+Model used in the app can be found [here](https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2).
+Streamlit Documantation: 
+
